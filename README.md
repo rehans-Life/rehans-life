@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rehan Tosif</h1>
-<h3 align="center">A passionate full stack developer from Bahrain</h3>
+
+<div>
+  <h1 align="center">Hi 👋, I'm Rehan Tosif</h1>
+  <h3 align="center">A passionate full stack developer</h3>
+</div>
 
 - 📫 How to reach me **rehantosif4@gmail.com**
 
